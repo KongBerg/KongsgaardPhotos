@@ -1,0 +1,42 @@
+
+body{
+    background-color: darkolivegreen;
+}
+h1{
+    color: blue;
+}
+h3{
+    color: yellow;
+}
+table {
+    background-image: url(Billeder/Baggrund.jpg);
+    color: black;    
+}
+div {
+    background-color: blueviolet;
+    width: 100%;
+}
+div {
+  width: 1000px;
+  margin: auto;
+  border: 3px solid red;
+}
+/* unvisited link */
+a:link {
+    color: black;
+  }
+  /* visited link */
+a:visited {
+    color: black;
+  }
+  /* mouse over link */
+a:hover {
+    color: hotpink;
+  }
+  /* selected link */
+a:active {
+    color: black;
+  }
+footer{
+  background-color: blueviolet;
+}
