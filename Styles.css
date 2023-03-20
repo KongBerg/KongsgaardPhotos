@@ -1,12 +1,12 @@
 
 body{
-    background-color: darkolivegreen;
+    background-color: lightcyan;
 }
 h1{
     color: blue;
 }
 h3{
-    color: yellow;
+    color: lightblue;
 }
 table {
     background-image: url(Billeder/Baggrund.jpg);
@@ -19,7 +19,7 @@ div {
 div {
   width: 1000px;
   margin: auto;
-  border: 3px solid red;
+  border: 3px solid midnightblue;
 }
 /* unvisited link */
 a:link {
